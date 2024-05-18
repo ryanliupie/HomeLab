@@ -4,4 +4,4 @@
 <h1> Components </h1>
 <hr>
 <h2> Server Rack </h2>
-
+[! Server Rack] (Server-Rack1.jpg) 
