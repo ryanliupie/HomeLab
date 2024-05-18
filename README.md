@@ -3,4 +3,5 @@
 <br>
 <h1> Components </h1>
 <hr>
-<h4> Server Rack </h4>
+<h2> Server Rack </h2>
+
