@@ -4,4 +4,5 @@
 <h1> Components </h1>
 <hr>
 <h2> Server Rack </h2>
-<img src = "Server-Rack1.jpg" width = "200" align ="center">
+<img src = "Server-Rack1.jpg" width = "200" align = "right" > 
+<p> For neatness and ease of access, I went with a 12U rack from "Powercables", that fits 19 inch networking eqiupment 
