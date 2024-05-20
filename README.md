@@ -5,4 +5,4 @@
 <hr>
 <h2> Server Rack </h2>
 <img src = "Server-Rack1.jpg" width = "200" align = "right" > 
-<p> For neatness and ease of access, I went with a 12U rack from "Powercables", that fits 19 inch networking eqiupment 
+<p> For neatness and ease of access, I went with a 12U rack from "Powercables", that fits 19 inch networking equipment
