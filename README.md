@@ -6,5 +6,6 @@
 <h2> Server Rack </h2>
 <img src = "Server-Rack1.jpg" width = "350">  <img src = "RACK2.jpg" width="400" align = "right"> 
 <p> For neatness and ease of access, I went with a 12U rack from "Powercables", that fits 19 inch networking equipment. 
-  It is not nessesarry to buy one for most common homeowners, however, these types of racks are used in larger organizations which are much larger. 
-With the use of configuring such hardware, allows the ability to troubleshoot, test, and develop far easier</p>
+  It's not neccesary to buy one for most common homeowners, however, it is much more organized as you can access what you need 
+  withouth scattering through a bunch of equipment. These types of racks, rather much larger one's, are used in larger organizations that
+  need more space/power. Learning how to manage this, will help with understanding different types of hardware and how they work together.</p>
