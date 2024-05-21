@@ -9,3 +9,6 @@
   It's not neccesary to buy one for most common homeowners, however, it is much more organized as you can access what you need 
   withouth scattering through a bunch of equipment. These types of racks, rather much larger one's, are used in larger organizations that
   need more space/power. Learning how to manage this, will help with understanding different types of hardware and how they work together.</p>
+  <br>
+
+ 
