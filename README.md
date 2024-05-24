@@ -24,4 +24,5 @@ more devices plugged in; creating an electrical circuit for more devices to perf
 <br> 
   
   In this picture on the right, both of them are the same, however, one is rackmountable and the other is not for cable management purposes.  
+  Do you know which is which? 
 </p>
