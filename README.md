@@ -4,11 +4,11 @@
 <h1> Components </h1>
 <hr>
 <h2> Server Rack </h2>
-<img src = "Server-Rack1.jpg" width = "250">  <img src = "RACK2.jpg" width="250" align = "right"> 
+<img src = "Server-Rack1.jpg" width = "150">  <img src = "RACK2.jpg" width="150" align = "right"> 
 <p> For neatness and ease of access, I went with a 12U rack from "Powercables", that fits 19 inch networking equipment. 
   It's not neccesary to buy one for most common homeowners, however, it is much more organized as you can access what you need 
   withouth scattering through a bunch of equipment. These types of racks, rather much larger one's, are used in big organizations that
   need more space/power. Learning how to manage this, will help with understanding different types of hardware and how they work together.</p>
   <br>
 
- 
+<h1> PDU (Power Distribution Unit) </h1>
