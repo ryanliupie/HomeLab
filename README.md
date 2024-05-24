@@ -11,4 +11,5 @@
   need more space/power. Learning how to manage this, will help with understanding different types of hardware and how they work together.</p>
   <br>
 
-<h1> PDU (Power Distribution Unit) </h1>
+<h2> PDU (Power Distribution Unit) </h2>
+<p> </p> 
