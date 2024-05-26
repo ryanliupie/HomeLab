@@ -30,3 +30,5 @@ more devices plugged in; creating an electrical circuit for more devices to perf
 
 <br> 
 <h2> Patch Panel </h2>
+<p> Would you rather have a mess of wires or have tidy wiring? I'd assume you'd want to keep everything tidy and to do this, you would need a patch panel. 
+This type of hardware is simply used for cable management, and in this use case, it would be used to keep CAT6 ethernet cables organized. </p>
