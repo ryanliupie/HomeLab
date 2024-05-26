@@ -28,4 +28,5 @@ PDU unit, where it has a plug that plugs into the outlet where it distributes th
 more devices plugged in; creating an electrical circuit for more devices to perform. 
 </p> 
 
+<br> 
 <h2> Patch Panel </h2>
