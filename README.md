@@ -24,9 +24,7 @@
   that even though the PDU can handle up to 15A, it is best to use it up to 12A for safety by Underwriters Laboratory (UL). 
   <br> 
   
-Look at how you charge your phone or plug a computer into the wall. The piece of equipment that is already attached to the wall connected to the AC electrical circuit is a socket/receptacle/outlet. Remember how I said that the North American 
-Standard voltage is 120V? If you take a look at the sockets in the wall, they supply 120 volts. Now if you buy a technical device, it will most likely need to be plugged into the wall to perform a function such as a phone, lamp, speaker and a laptop.
-Howeever, there are only 2 sockets and you need 4 in total, how do you workaround this? This is where the PDU unit plays its part by having multiple sockets available to plug into.
+Now, consider how you plug devices into a wall outlet. The piece of equipment already attached to the wall, which is connected to the AC electrical circuit, is a socket (also known as a receptacle or outlet). The North American standard voltage is 120V, which is what these sockets supply. When you buy a technical device, it will most likely need to be plugged into the wall to function, such as a phone charger, lamp, speaker, or laptop. However, if you only have two sockets available but need to plug in four devices, you face a problem. This is where a PDU becomes useful. It provides multiple sockets, allowing you to plug in several devices simultaneously.
 
 <br> 
 <h2> Patch Panel </h2>
