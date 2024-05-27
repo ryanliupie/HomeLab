@@ -11,6 +11,9 @@
   without scattering through a bunch of equipment. These types of racks, rather much larger ones, are used in big organizations that
   need more space/power. Learning how to manage this, will help with understanding different types of hardware and how they work together.</p>
   <br>
+  Remember a time when you have no internet at home, the first thing you might think is "router, router, router". Imagine those types of 
+  equipments in one place, a server rack helps organize them. 
+  <br> 
 
 <h2> PDU (Power Distribution Unit) </h2>
 <img src = "PDU.jpg"; width = "300"; > 
