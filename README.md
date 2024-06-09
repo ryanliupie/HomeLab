@@ -4,15 +4,14 @@
 <h1> Components </h1>
 <hr>
 <h2> Server Rack </h2>
-<img src = "Server-Rack1.jpg" width = "150">  <img src = "RACK2.jpg" width="150" align = "right"> 
-<p> For neatness and ease of access, I went with a 12U rack from "Power cables", that fits 19-inch networking equipment. Each 1U is 1.75 inches tall, 
-  therefore the height of this rack is 1.75 x 12U = 21 inches or 53.34cm tall. 
-  It's not necessary to buy one for most common homeowners, however, it is much more organized as you can access what you need 
-  without scattering through a bunch of equipment. These types of racks, rather much larger ones, are used in big organizations that
-  need more space/power. Learning how to manage this, will help with understanding different types of hardware and how they work together.</p>
+<img src = "Server-Rack1.jpg" width = "150">  <img src = "RACK2.jpg" width="250" align = "right"> 
+<p> For neatness and ease of access, I chose a 12U rack from "Power Cables" that fits 19-inch networking equipment. Each 1U is 1.75 inches tall, so the height of this rack is 1.75 x 12U = 21 inches or 53.34 cm tall. While it's not necessary for most homeowners to buy one, a rack offers a more organized setup, allowing easy access to equipment without having to scatter through a bunch of devices.</p>
   <br>
-  Remember a time when you had no internet at home, the first thing you might think is "router, router, router". Imagine those pieces of 
-  equipments in one place, a server rack helps organize them. 
+  
+  These types of racks, albeit usually much larger, are used in big organizations that need more space and power. Learning how to manage a rack can help you understand different types of hardware and how they work together.
+  <br>
+  
+ Remember a time when you had no internet at home—the first thing you might think is "router, router, router." A server rack helps organize all those pieces of equipment in one place, making it easier to troubleshoot and manage.
   <br> 
 
 <h2> PDU (Power Distribution Unit) </h2>
