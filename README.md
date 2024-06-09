@@ -33,4 +33,3 @@ Now, consider how you plug devices into a wall outlet. The piece of equipment al
 <p> A major aspect to be mindful of is cable management; nobody want a mess of cables that is hard to identify. To troubleshoot this, purchasing a patch panel will definitely help with the stress load of 
 messy cables. In this use case, it will be used to keep CAT6 ethernet cables organized. There are 2 ways I went about this, either buying small ethernet cables or making my own. </p>
 <br> 
-<P> I decided to build my own and to the right is what you need --> </P>
