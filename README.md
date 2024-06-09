@@ -1,5 +1,5 @@
 <h1> My Homelab</h1>
-<p> In my opinion, a homelab is simply where you can learn and test new skills. More specifically, how you can utilize computing equipment to achieve various types of goals and tasks. This lab is meant to run as a media server, with the addition of programming, and conducting different cybersecurity tasks such as penetration testing, and cryptography. Not only that but it will be used to learn how to troubleshoot different types of hardwares and softwares.   </p>
+<p> In my opinion, a homelab is a personal environment where you can learn and test new skills. More specifically, it’s a space to explore how computing equipment can be utilized to achieve various goals and tasks. My homelab is designed to function as a media server and to support programming, penetration testing, and cryptography activities. Additionally, it serves as a platform for learning how to troubleshoot different types of hardware and software.   </p>
 <br>
 <h1> Components </h1>
 <hr>
