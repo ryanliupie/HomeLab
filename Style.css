@@ -8,8 +8,8 @@ body {
     background-color: rgb(68, 87,96); 
 }
 
-/* So these are all variables that we can change which which 
-changes in correlation to the code we wrote*/
+/* So these are all variables that we can change which 
+changes in correlation to the code written*/
 :root{
     --bar-width: 50px; 
     --bar-height: 7px; 
