@@ -1,5 +1,5 @@
 <h1> My Homelab</h1>
-<p> In my opinion, a homelab is a personal environment where you can learn and test new skills. More specifically, it’s a space to explore how computing equipment can be utilized to achieve various goals and tasks. My homelab is designed to function as a media server and to support programming, penetration testing, and cryptography activities. Additionally, it serves as a platform for learning how to troubleshoot different types of hardware and software.   </p>
+<p>In my opinion, a homelab is a personal environment where you can learn and test new skills. More specifically, it’s a space to explore how computing equipment can be utilized to achieve various goals and tasks. My homelab is designed to function as a media server and to support programming, penetration testing, and cryptography activities. It will serve as a platform for learning how to troubleshoot different types of hardware and software. Addtionally, with the utilization of HTML, CSS, and JavaScript, I will be displaying the progression of my homelab, including mistakes, troubleshooting, and results.</p>
 <br>
 <h1> Components </h1>
 <hr>
@@ -30,6 +30,5 @@ Now, consider how you plug devices into a wall outlet. The piece of equipment al
 <img src = "PatchPanel.jpg"; width ="500"> 
 <img src = "Eth.jpg"; width = "500" align= "right">
 <br>
-<p> A major aspect to be mindful of is cable management; nobody want a mess of cables that is hard to identify. To troubleshoot this, purchasing a patch panel will definitely help with the stress load of 
-messy cables. In this use case, it will be used to keep CAT6 ethernet cables organized. There are 2 ways I went about this, either buying small ethernet cables or making my own. </p>
-<br> 
+<p> A major aspect to be mindful of is cable management; nobody wants a mess of cables that are hard to identify. To address this issue, purchasing a patch panel can significantly reduce the stress caused by messy cables. In my setup, it will be used to keep CAT6 ethernet cables organized. There are two approaches I considered: either buying small pre-made ethernet cables or making my own.</p>
+<br>
