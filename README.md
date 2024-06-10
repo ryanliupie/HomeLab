@@ -1,5 +1,8 @@
 <h1> My Homelab</h1>
-<p>In my opinion, a homelab is a personal environment where you can learn and test new skills. More specifically, it’s a space to explore how computing equipment can be utilized to achieve various goals and tasks. My homelab is designed to function as a media server and to support programming, penetration testing, and cryptography activities. It will serve as a platform for learning how to troubleshoot different types of hardware and software. Addtionally, with the utilization of HTML, CSS, and JavaScript, I will be displaying the progression of my homelab, including mistakes, troubleshooting, and results.</p>
+<p>In my opinion, a homelab is a personal environment where you can learn and test new skills. More specifically, it’s a space to explore how computing equipment can be utilized to achieve various goals and tasks. My homelab is designed to function as a media server and to support programming, penetration testing, and cryptography activities. It will serve as a platform for learning how to troubleshoot different types of hardware and software. Addtionally, with the utilization of HTML, CSS, and JavaScript, I will be displaying the progression of my homelab, including mistakes, troubleshooting, and results.
+  
+[Server Rack](ServerRack.md)
+  
 <br>
 <h1> Components </h1>
 <hr>
