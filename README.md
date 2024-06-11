@@ -13,8 +13,8 @@ Down below, you can click on each markdown to learn more about each of the compo
 
 <h1> Components </h1>
 
-- <h2> <a href= "ServerRack.md"> Server Rack </a> </h2>
-- <h2> <a href= "PDU.md"> PDU (Power Distribution Unit) </a> </h2>
-- <h2> <a href= "PatchPanel.md"> Patch Panel </a>  </h2>
+- <h2> <a href= "Markdown/ServerRack.md"> Server Rack </a> </h2>
+- <h2> <a href= "Markdown/PDU.md"> PDU (Power Distribution Unit) </a> </h2>
+- <h2> <a href= "Markdown/PatchPanel.md"> Patch Panel </a>  </h2>
 
 
