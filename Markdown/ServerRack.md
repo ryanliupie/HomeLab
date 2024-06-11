@@ -1,5 +1,6 @@
-<h2> Server Rack </h2>
-<img src = "IMAGES/Server-Rack1.jpg" width = "150">  <img src = "IMAGES/RACK2.jpg" width="250" align = "right"> 
+# Server Rack 
+ ![Rack2](/IMAGES/RACK2.jpg)
+
 <p> For neatness and ease of access, I chose a 12U rack from "Power Cables" that fits 19-inch networking equipment. Each 1U is 1.75 inches tall, so the height of this rack is 1.75 x 12U = 21 inches or 53.34 cm tall. While it's not necessary for most homeowners to buy one, a rack offers a more organized setup, allowing easy access to equipment without having to scatter through a bunch of devices.</p>
   <br>
   
