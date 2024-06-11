@@ -15,5 +15,6 @@ Down below, you can click on each markdown to learn more about each of the compo
 
 - <h2> <a href="ServerRack.md"> Server Rack </a> </h2>
 - <h2> <a href ="PDU.md"> PDU (Power Distribution Unit) </a> </h2>
+- <h2> <a href ="PatchPanel.md"> </a> Patch Panel </h2>
 
 
