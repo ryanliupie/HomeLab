@@ -1,5 +1,4 @@
-## Patch Panel 
-
+# Patch Panel 
 ![Patch Panel](/IMAGES/PatchPanel.jpg)
 
 <br>
