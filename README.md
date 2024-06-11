@@ -8,21 +8,19 @@ It will serve as a platform for learning how to troubleshoot different types of 
 <br> 
 
 Down below, you can click on each markdown to learn more about each of the components that I used.  🕹️
-[Server Rack](ServerRack.md)
   
 <br>
+
 <h1> Components </h1>
-<hr>
-<h2> Server Rack </h2>
-<img src = "IMAGES/Server-Rack1.jpg" width = "150">  <img src = "IMAGES/RACK2.jpg" width="250" align = "right"> 
-<p> For neatness and ease of access, I chose a 12U rack from "Power Cables" that fits 19-inch networking equipment. Each 1U is 1.75 inches tall, so the height of this rack is 1.75 x 12U = 21 inches or 53.34 cm tall. While it's not necessary for most homeowners to buy one, a rack offers a more organized setup, allowing easy access to equipment without having to scatter through a bunch of devices.</p>
-  <br>
-  
-  These types of racks, albeit usually much larger, are used in big organizations that need more space and power. Learning how to manage a rack can help you understand different types of hardware and how they work together.
-  <br>
-  
- Remember a time when you had no internet at home—the first thing you might think is "router, router, router." A server rack helps organize all those pieces of equipment in one place, making it easier to troubleshoot and manage.
-  <br> 
+
+- <h2> <a href="ServerRack.md"> Server Rack</a> </h2>
+
+
+
+
+
+
+
 
 <h2> PDU (Power Distribution Unit) </h2>
 <img src = "IMAGES/PDU.jpg"; width = "300"; > 
