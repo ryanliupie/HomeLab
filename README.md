@@ -14,7 +14,7 @@ Down below, you can click on each markdown to learn more about each of the compo
 <h1> Components </h1>
 
 - <h2> <a href="ServerRack.md"> Server Rack</a> </h2>
-- <h2> <a href ="PDU.md"> </a></h2>
+- <h2> <a href ="PDU.md"> PDU (Power Distribution Unit) </a> </h2>
 
   
 Now, consider how you plug devices into a wall outlet. The piece of equipment already attached to the wall, which is connected to the AC electrical circuit, is a socket (also known as a receptacle or outlet). The North American standard voltage is 120V, which is what these sockets supply. When you buy a technical device, it will most likely need to be plugged into the wall to function, such as a phone charger, lamp, speaker, or laptop. However, if you only have two sockets available but need to plug in four devices, you face a problem. This is where a PDU becomes useful. It provides multiple sockets, allowing you to plug in several devices simultaneously.
