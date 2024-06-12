@@ -8,6 +8,8 @@ It will serve as a platform for learning how to troubleshoot different types of 
 <br> 
 
 Down below, you can click on each markdown to learn more about each of the components that I used or you can click here [pending website] as well. 🕹️
+
+<img src="IMAGES/RoughDesign.jpg" >
   
 <br>
 
