@@ -10,6 +10,6 @@
 <p> Now, let's say you have devices that only support wired ethernet connections or simply WI-FI is too slow for you, what now? The switch comes into play where it has many RJ45 ports where you can connect it to. To do this, you would either patch the ethernet cables behind via a patch panel or simply plug them in the front.  </p>
 <br> 
 
-<p> [Modem] plugs into --> [Router] plugs into --> [Switch] = Lot's of connections </p>
+<p> [Modem] plugs into --> [Router] plugs into --> [Switch] = Many connections </p>
 
 ![SwitchPatch](/IMAGES/Switch+PDU.jpg)
