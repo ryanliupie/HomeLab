@@ -19,6 +19,7 @@
 - <h2> <a href= "Markdown/PDU.md"> PDU (Power Distribution Unit) </a> </h2>
 - <h2> <a href= "Markdown/PatchPanel.md"> Patch Panel </a>  </h2>
 - <h2> <a href="Markdown/Switch.md"> Switch </a> </h2>
+- <h2> <a href="Markdown/shelf.md"> Shelf </a> </h2>
 - <h2> <a href="Markdown/RackRails.md"> Server Rails </a> </h2>
 
 
