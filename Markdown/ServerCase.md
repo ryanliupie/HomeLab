@@ -1,6 +1,6 @@
 # Server Case 
 
-![FrontCase](/IMAGES/Front.jpg)
+![FrontCase](/IMAGES/Server Case.jpg)
 <br> 
 <hr> 
 
