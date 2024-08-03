@@ -114,6 +114,15 @@ body{
     display: flex; 
     justify-content: center;
     font-style: italic; 
+
+}
+
+@media (max-width:800px) {
+    .Heading{
+        font-size: 2.0rem; 
+
+    }
+
 }
 
 .content{
@@ -129,7 +138,8 @@ body{
     display: block; 
     margin-right: auto; 
     margin-left: auto; 
-    width: 350px; 
+    width: 45%; 
+    max-width: 350px; 
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
@@ -147,7 +157,8 @@ body{
 
 
 .clm img{
-    width: 350px; 
+    max-width: 350px; 
+    width: 45%; 
     border: 2px solid;
     border-radius: 10px; 
     margin-top: 20px; 
@@ -156,32 +167,35 @@ body{
 }
 
 #image2 img{
-    width: 500px; 
+    max-width: 500px;
+    width: 45%;  
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
 }
  
 #image3 img{
-    width: 500px; 
+    max-width: 500px; 
+    width: 45%; 
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
-<<<<<<< HEAD
-=======
 }
 
 #image4 img{
-    width: 700px; 
+    max-width: 700px;
+    width: 75%;  
     rotate: left;
     border: 2px solid; 
     border-radius: 10px;
     margin-top: 95px; 
     transform: rotate(270deg); 
+   
 }
 
 #image5 img{
-    width: 450px; 
+    max-width: 450px; 
+    width: 75%; 
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
@@ -194,7 +208,8 @@ body{
 }
 
 #image6 img{
-    width: 650px; 
+    max-width: 650px; 
+    width: 75%; 
     border: 2px solid; 
     border-radius: 10px;
 }
@@ -211,59 +226,7 @@ body{
     background-color:  #273840;
 }
 
-@media (orientation: portrait){
-    #box1{
-        background-color: red;
-    }
->>>>>>> c399b0b4bfb9416bdf62c6c2d6d97857fe1ee35b
-}
 
-#image4 img{
-    width: 700px; 
-    rotate: left;
-    border: 2px solid; 
-    border-radius: 10px;
-    margin-top: 95px; 
-    transform: rotate(270deg); 
-}
 
-#image5 img{
-    width: 450px; 
-    border: 2px solid; 
-    border-radius: 10px; 
-    margin-top: 20px; 
 
-}
 
-.content{
-    display: flex; 
-    justify-content: center; 
-}
-
-#image6 img{
-    width: 650px; 
-    border: 2px solid; 
-    border-radius: 10px;
-}
-
-/* Troubleshoots/Final.html Page */ 
-
-#box1{
-    margin: auto; 
-    border: 5px solid;
-    border-radius: 10px;
-    width: 200px; 
-    height: 600px; 
-    margin-top: 100px; 
-    background-color:  #273840;
-}
-
-@media (orientation: portrait){
-    #box1{
-        background-color: red;
-    }
-}
-
-#box2{
-    
-}
