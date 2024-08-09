@@ -131,6 +131,7 @@ body{
     margin-right:50px; 
     margin-left: 50px; 
     text-align: center;
+    margin-bottom: 20px; 
     
 }
 
@@ -143,6 +144,7 @@ body{
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
+    margin-bottom: 20px; 
 }
 
 .Row{
@@ -150,7 +152,7 @@ body{
 }
 
 
-.clm {
+.clm{
     display: inline-block;
     vertical-align: top;
 }
@@ -172,6 +174,7 @@ body{
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
+    margin-bottom: 20px; 
 }
  
 #image3 img{
@@ -180,6 +183,7 @@ body{
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
+    margin-bottom: 20px; 
 }
 
 #image4 img{
@@ -189,6 +193,7 @@ body{
     border: 2px solid; 
     border-radius: 10px;
     margin-top: 95px; 
+    margin-bottom: 100px; 
     transform: rotate(270deg); 
    
 }
@@ -199,6 +204,7 @@ body{
     border: 2px solid; 
     border-radius: 10px; 
     margin-top: 20px; 
+    margin-bottom: 20px; 
 
 }
 
@@ -212,6 +218,7 @@ body{
     width: 75%; 
     border: 2px solid; 
     border-radius: 10px;
+    margin-bottom: 20px; 
 }
 
 /* Troubleshoots/Final.html Page */ 
