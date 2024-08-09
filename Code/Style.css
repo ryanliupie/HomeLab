@@ -220,6 +220,7 @@ body{
     margin: auto; 
     border: 5px solid;
     border-radius: 10px;
+    max-width: 750px; 
     width:  75%; 
     height: 75%; 
     height: 600px;   
@@ -228,5 +229,43 @@ body{
     background-color:  #273840;
 }
 
+#image7 img{
+    max-width: 300px; 
+    width: 75%; 
+    margin-left: 20px; 
+    margin-right: 20px; 
+    margin-top: 20px; 
+    border: 2px solid; 
+    border-radius: 10px; 
+    border-color: rgb(68, 87, 96);
+    float: left; 
+    
+
+}
+
+.content2{
+    color: white; 
+   
+}
+
+@media(max-width: 616px ){
+    .content2{
+        font-size: 0.7rem; 
+    }
+}
+
+#image8 img{
+    max-width: 280px; 
+    width: 75%; 
+    margin-left: 20px; 
+    margin-right: 20px; 
+    margin-top: 20px;  
+    border: 2px solid; 
+    border-radius: 10px; 
+    border-color: rgb(68, 87, 96);
+    float: left; 
+    
+
+}
 
 
