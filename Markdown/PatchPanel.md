@@ -20,6 +20,6 @@
 
 ![Keystone Demo](/IMAGES/KeystoneDemo.jpg)
 
-<p> Those little blocks behind the patch panel are "keystone jacks". They allow you to punch down ethernet cables where the passthrough connectors at the front can make that connection. The wire I am holding would be the LONGGGGGG ethernet cable coming from the house. It could be a fridge, computer, washing machine or anything that uses an ethernet cable. </p>
+<p> Those little blocks behind the patch panel are "keystone jacks". They allow you to punch down ethernet cables where the passthrough connectors at the front can make that connection. The wire I am holding would be the LONG ethernet cable coming from somewhere around the house. It could be a fridge, computer, washing machine or anything that uses an ethernet cable. </p>
 <br>
 <p> Imagine plugging those cables in the front, it would very messy. If we did that, those small ethernet cables would be a waste of time because they serve as an extention in way. Now if we plug from behind, we can not only make it more organized, but allows ease of access to other hardware components as well. </p>
