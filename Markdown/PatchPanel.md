@@ -4,7 +4,7 @@
 <br>
 
 <p>
-A key aspect to be mindful of is cable management; no one wants a tangled mess of cables that are difficult to identify. To tackle this issue, investing in a patch panel can greatly reduce the stress caused by disorganized cables. In my setup, the patch panel will help keep CAT6 Ethernet cables neatly arranged. I considered two approaches: purchasing pre-made Ethernet cables or making my own. Ultimately, I decided to make my own, and below are the components you’ll need. 
+A key aspect to be mindful of is cable management; no one wants a tangled mess of cables that are difficult to identify. To tackle this issue, investing in a patch panel can greatly reduce the stress caused by disorganized cables. In my setup, the patch panel will help keep CAT6 Ethernet cables neatly arranged. I considered two approaches: purchasing pre-made Ethernet cables or making my own. 
 </p>
 
 <br>
