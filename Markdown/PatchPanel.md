@@ -23,7 +23,7 @@ Ultimately, I decided to make my own, and below are the components you’ll need
 <br> 
 
 <p>
-Athough it would have been cheaper to buy short ethernet cables, I would rather take the time to learn how to make them and you guys should too! The cables are approximately 5 inches long where these would connect to switch below; allowing connectively to all devices.
+Although buying short Ethernet cables would have been cheaper, I chose to take the time to learn how to make them myself—and I encourage you to do the same! The cables are approximately 5 inches long and will connect to the switch below, providing connectivity to all devices.
 </p>
 
 <br>
@@ -31,11 +31,11 @@ Athough it would have been cheaper to buy short ethernet cables, I would rather 
 ![Keystone Demo](/IMAGES/KeystoneDemo.jpg)
 
 <p> 
-Those little blocks behind the patch panel are "keystone jacks". They allow you to punch down ethernet cables where the passthrough connectors at the front can make that connection. The wire I am holding would be the LONG ethernet cable coming from somewhere around the house. It could be a fridge, computer, washing machine or anything that uses an ethernet cable.
+The small blocks behind the patch panel are called "keystone jacks." They allow you to punch down Ethernet cables, enabling the passthrough connectors at the front to make the connection. The wire I'm holding is the long Ethernet cable coming from somewhere around the house. This could be connected to anything that uses an Ethernet cable, such as a fridge, computer, washing machine, or any other device.
 </p>
 
 <br>
 
 <p> 
-Imagine plugging those cables in the front, it would very messy. If we did that, those small ethernet cables would be a waste of time because they serve as an extention in way. Now if we plug from behind, we can not only make it more organized, but allows ease of access to other hardware components as well. 
+Imagine plugging those cables into the front—it would create a messy situation. If we did that, those short Ethernet cables would essentially be a waste of time, as they’re meant to act as extensions. However, by plugging them in from the back, we can not only keep things more organized but also maintain easier access to other hardware components.
 </p>
