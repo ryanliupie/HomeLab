@@ -4,9 +4,21 @@
 <br> 
 <hr> 
 
- I previously went with a case from "RackChoice" and it is a 2U Micro ATX that consists of 2 USB 2.0 ports and 2 USB 3.0 ports. ‎It is 48.3 x 40 x 8.9 Centimetres (L x W x H), which is much shorter that most server rack cases. However, to save on my money, I will be converting my PC into a server and swapping those components into a smaller case to fit the rack itself. Also, for clarity, a PC is essentially a server, where a server runs 24/7 instead of turning it off like a regular PC. There are also other hardware/software aspects to consider but that is what I would define it as. 
+<p>
+I recently opted for a 2U Micro ATX case from "RackChoice" for my server build. This case features 2 USB 2.0 ports and 2 USB 3.0 ports, and its dimensions are 48.3 x 40 x 8.9 centimeters (L x W x H), making it much more compact than most standard server rack cases. To save money, I’ve decided to convert my existing PC into a server by transferring its components into this smaller case, allowing it to fit neatly into my server rack.
+</p>
 
-The case on the left is actually one of my family members first ever PC around 29 years ago and it will be my first home server. To apply it in the rack, I will be placing it on its side on the server rails. This is not a typical/ideal setup, but it works in my case. However, there is a major problem when doing this and you can use this link right here to take a look → https://youtu.be/2dZyPcqh6iE
+<br>
+
+<p>
+To clarify, a PC can essentially function as a server—the main difference is that a server typically runs 24/7, unlike a regular PC, which is often powered off when not in use. Of course, there are additional hardware and software considerations, but this is a simplified way to think about it. 
+</p>
+
+<br>
+
+<p>
+The case on the left in the image is actually from one of my family member’s first-ever PCs, built around 29 years ago, and it will now become my first home server. To fit it into the rack, I plan to place the case on its side on the server rails. While this setup isn’t typical or ideal, it works for my specific needs. However, this approach does come with some potential issues, such as airflow constraints and stability concerns. For more details and to see the setup, you can check out this link → https://youtu.be/2dZyPcqh6iE 
+</p>
 
 
 
