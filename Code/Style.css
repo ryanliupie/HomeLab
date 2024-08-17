@@ -106,7 +106,7 @@ body{
     }
 }
 
-.Heading{
+.heading{
     color: white; 
     font-size: 3.4rem; 
     padding: 0; 
@@ -147,7 +147,7 @@ body{
     margin-bottom: 20px; 
 }
 
-.Row{
+.row{
     text-align: center; 
 }
 
