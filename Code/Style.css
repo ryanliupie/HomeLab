@@ -275,4 +275,16 @@ body{
 
 }
 
+/* Final.html page */ 
 
+#completed_lab img{
+    max-width: 600px; 
+    width: 75%; 
+    display: block; 
+    margin-right: auto; 
+    margin-left: auto; 
+    margin-top: 45px; 
+    border: 2px solid; 
+    border-radius: 25px; 
+
+}
