@@ -5,7 +5,7 @@
   
  <p> With the utilization of HTML, CSS, and JavaScript, I will be displaying the progression of my homelab, mistakes made, and the results. </p>
 
-<p> Down below, you can click on each markdown to learn more about each of the components that I used or you can click here https://ryanshomelab.netlify.app as well. 🕹️   </p>
+<p> Down below, you can click on each markdown to learn more about each of the components that I used or you can click here --> <a href="https://ryanshomelab.netlify.app"> Ryan's Homelab </a> as well. 🕹️   </p>
 <hr> 
 <h2> Rough Website Preview </h2>
 
