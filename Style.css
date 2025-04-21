@@ -211,6 +211,12 @@ body{
 .content{
     display: flex; 
     justify-content: center; 
+    max-width: 800px; 
+    margin: 0 auto;
+    margin-top: 20px; 
+    margin-bottom: 20px;  
+    text-align: center; 
+    padding: 0 1 rem; 
 }
 
 #image6 img{
